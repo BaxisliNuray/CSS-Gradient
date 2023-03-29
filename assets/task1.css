@@ -1,0 +1,87 @@
+body{
+    padding: 0;
+    margin: 20px 120px;
+    font-family: 'Poppins', sans-serif;
+   
+
+}
+.img{
+    border: 1px solid rgba(135, 155, 185, 0.637);
+    background-image: url("https://img.freepik.com/free-photo/closeup-smiling-pretty-young-asian-woman_1262-4846.jpg");
+   background-size: cover;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    
+}
+h1{
+    
+    font-weight: 200;
+    font-size: 80px;
+    margin: 0;
+
+    
+}
+p{
+    color: #8d8d8d;
+    font-size: 30px;
+    font-weight: 300;
+    margin: 0;
+
+}
+span{
+    color: #5e5c5c;
+    padding: 20px 0;
+    
+   
+}
+b{
+    color: black;
+    
+}
+
+.col1{
+   
+    border-left: 4px dashed lightgray;
+    padding-left: 10px;
+    width: 50%;
+    display: inline-block;
+}
+.col2{
+    border-left: 4px dashed lightgray;
+    padding-right: 90px;
+    display: inline-block;
+    width: 220px;
+    padding-left: 10px;
+    margin-left: 4em;
+
+}
+
+
+   h2{
+    color: #219fb3;
+    font-size: 30px;
+    font-weight: 400;
+    margin: 5px 0;
+   }
+   .column h3{
+    font-weight: 800;
+    color: rgb(26, 24, 24);
+   }
+.column span{
+    color: rgb(39, 38, 38);
+    font-weight: 400;
+    
+}
+.column p{
+    margin-top: 10px;
+    color: rgb(73, 73, 73);
+    font-size: 14px;
+}
+.fa-solid{
+    color: #026f80;
+    font-size: 27px;
+}
+[class="fa-solid fa-language"]{
+white-space: pre;
+}

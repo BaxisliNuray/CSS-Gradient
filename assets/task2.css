@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    
+    border: 1px transparent;
+    text-align: center;
+    margin:30px 40px;
+    width: 93%;
+    height:590px;
+    background: linear-gradient(to right, #fca600,#f15981,#d72fbc,#890dc0,#4d55d4,#1cc1ef,#01fafb)
+}
+
+
+h1{
+    color: white;
+    font-size: 90px;
+    padding: 2.5em;
+}
